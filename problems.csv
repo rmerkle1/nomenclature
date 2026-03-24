@@ -1,0 +1,127 @@
+formula,category,correctAnswer
+CO,molecular,carbon monoxide
+N₂O₂,molecular,dinitrogen dioxide
+S₂O₂,molecular,disulfur dioxide
+P₂Cl₂,molecular,diphosphorus dichloride
+Si₄O₂,molecular,tetrasilicon dioxide
+Se₄O₂,molecular,tetraselenium dioxide
+C₂O₂,molecular,dicarbon dioxide
+NO,molecular,nitrogen monoxide
+P₃O₂,molecular,triphosphorus dioxide
+S₅F₄,molecular,pentasulfur tetrafluoride
+CS₃,molecular,carbon trisulfide
+PCl₄,molecular,phosphorus tetrachloride
+B₂Cl₅,molecular,diboron pentachloride
+Si₂O₅,molecular,disilicon pentoxide
+BrO₂,molecular,bromine dioxide
+SeO₃,molecular,selenium trioxide
+C₃O₂,molecular,tricarbon dioxide
+N₃O₂,molecular,trinitrogen dioxide
+S₂O₅,molecular,disulfur pentoxide
+P₂O₅,molecular,diphosphorus pentoxide
+NF₄,molecular,nitrogen tetrafluoride
+SF₄,molecular,sulfur tetrafluoride
+CS₂,molecular,carbon disulfide
+PCl₃,molecular,phosphorus trichloride
+B₂Cl₅,molecular,diboron pentachloride
+Br₂O,molecular,dibromine monoxide
+Se₂O₄,molecular,diselenium tetroxide
+N₅O₂,molecular,pentanitrogen dioxide
+S₂O₂,molecular,disulfur dioxide
+N₂F₅,molecular,dinitrogen pentafluoride
+C₄S₂,molecular,tetracarbon disulfide
+BCl₅,molecular,boron pentachloride
+CCl₄,molecular,carbon tetrachloride
+SF₆,molecular,sulfur hexafluoride
+IF₇,molecular,iodine heptafluoride
+P₂O₅,molecular,diphosphorus pentoxide
+P₄S₈,molecular,tetraphosphorus octasulfide
+S₂F₃,molecular,disulfur trifluoride
+PCl₅,molecular,phosphorus pentachloride
+B₂Cl₄,molecular,diboron tetrachloride
+P₄O₁₀,molecular,Tetraphosphorus decoxide
+NaNO₂,ionic,sodium nitrite
+Sn₃(PO₄)₄,ionic,tin (IV) phosphate
+Ni(ClO₂)₃,ionic,nickel (III) chlorite
+MgCl₂,ionic,magnesium chloride
+AgI,ionic,silver iodide
+CuI,ionic,copper (I) iodide
+MgSO₃,ionic,magnesium sulfite
+Mg(ClO₃)₂,ionic,magnesium chlorate
+KCl,ionic,potassium chloride
+CrS,ionic,chromium (II) sulfide
+Na₂S,ionic,sodium sulfide
+Zn(NO₃)₂,ionic,zinc nitrate
+K₂SO₄,ionic,potassium sulfate
+AgOH,ionic,silver hydroxide
+NaI,ionic,sodium iodide
+Co₂S₃,ionic,cobalt (III) sulfide
+AlCl₃,ionic,aluminum chloride
+Cr(ClO₃)₃,ionic,chromium (III) chlorate
+Mg₃(PO₄)₂,ionic,magnesium phosphate
+K₂CO₃,ionic,potassium carbonate
+AgNO₂,ionic,silver nitrite
+Na₂SO₄,ionic,sodium sulfate
+Sn(ClO₃)₂,ionic,tin (II) chlorate
+ZnI₂,ionic,zinc iodide
+CrO,ionic,chromium (II) oxide
+LiI,ionic,lithium iodide
+Ag₂O,ionic,silver oxide
+Ag₂CO₃,ionic,silver carbonate
+Al(ClO₂)₃,ionic,aluminum chlorite
+K₃N,ionic,potassium nitride
+Cu(OH)₂,ionic,copper (II) hydroxide
+Cu₃(PO₄)₂,ionic,copper (II) phosphate
+CuCl₂,ionic,copper (II) chloride
+MgCO₃,ionic,magnesium carbonate
+Mg₃N₂,ionic,magnesium nitride
+NaOH,ionic,sodium hydroxide
+Zn(OH)₂,ionic,zinc hydroxide
+Fe₃N₂,ionic,iron (II) nitride
+CuNO₂,ionic,copper (I) nitrite
+CoI₂,ionic,cobalt (II) iodide
+LiF,ionic,lithium fluoride
+NiCO₃,ionic,nickel (II) carbonate
+Fe(OH)₃,ionic,iron (III) hydroxide
+CuOH,ionic,copper (I) hydroxide
+SrI₂,ionic,strontium iodide
+CrN,ionic,chromium (III) nitride
+CuI₂,ionic,copper (II) iodide
+Li₂S,ionic,lithium sulfide
+Al(NO₃)₃,ionic,aluminum nitrate
+NiCO₃,ionic,nickel (II) carbonate
+Cr(OH)₂,ionic,chromium (II) hydroxide
+Ca(OH)₂,ionic,calcium hydroxide
+NaBr,ionic,sodium bromide
+BaSO₄,ionic,barium sulfate
+BaBr₂,ionic,barium bromide
+HgO,ionic,mercury (II) oxide
+NaCH₃COO,ionic,sodium acetate
+Fe(CH₃COO)₃,ionic,iron (III) acetate
+K₂CrO₄,ionic,potassium chromate
+NiCrO₄,ionic,nickel (II) chromate
+KCN,ionic,potassium cyanide
+Zn(CN)₂,ionic,Zinc cyanide
+Fe(S₂O₃)₂,ionic,iron (II) thiosulfate
+Li₂S₂O₃,ionic,lithium thiosulfate
+Ca(ClO)₂,ionic,calcium hypochlorite
+NaClO,ionic,sodium hypochlorite
+Mg(ClO₄)₂,ionic,magnesium perchlorate
+NH₄ClO₄,ionic,ammonium perchlorate
+NH₄Cl,ionic,ammonium chloride
+NH₄ClO,ionic,ammonium hypochlorite
+(NH₄)₂SO₄,ionic,ammonium sulfate
+HCl,acidic,hydrochloric acid
+HBr,acidic,hydrobromic acid
+HI,acidic,hydroiodic acid
+HF,acidic,hydrofluoric acid
+H₂S,acidic,hydrosulfuric acid
+HNO₃,acidic,nitric acid
+HNO₂,acidic,nitrous acid
+H₂SO₄,acidic,sulfuric acid
+H₂SO₃,acidic,sulfurous acid
+HClO₃,acidic,chloric acid
+HClO₂,acidic,chlorous acid
+H₂CO₃,acidic,carbonic acid
+H₂CrO₄,acidic,chromic acid
+HCH₃COO,acidic,acetic acid
